@@ -10,4 +10,10 @@ Some assumptions made for simplicity:
 - dissolved oxygen component is neglected, which ignores about ~10% of total oxygen
 - Outlet saturation of membrane oxygenator is set at 100% 
 
+---------------------------------------------------
+
 Additionally, there's a Python script that does oxygen transfer model based on Vaslef paper from 1992
+
+![image](https://github.com/ukitar1/ECMO_Sim/assets/124108181/f0da6a47-91fe-4c16-8b09-38ee5cb331eb)
+
+![image](https://github.com/ukitar1/ECMO_Sim/assets/124108181/bafc6f7f-09c4-44dd-bf4a-0cbf6b7722df)
