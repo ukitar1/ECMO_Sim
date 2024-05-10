@@ -9,3 +9,5 @@ The implementation is relatively simple and based on oxygen mass balance and Fic
 Some assumptions made for simplicity:
 - dissolved oxygen component is neglected, which ignores about ~10% of total oxygen
 - Outlet saturation of membrane oxygenator is set at 100% 
+
+Additionally, there's a Python script that does oxygen transfer model based on Vaslef paper from 1992
